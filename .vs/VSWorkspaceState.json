@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\SeriesApp",
+    "\\SeriesApp\\bin\\Debug",
+    "\\SeriesApp\\bin\\Release",
+    "\\SeriesApp\\Helpers",
+    "\\SeriesApp\\Models",
+    "\\SeriesApp\\obj",
+    "\\SeriesApp\\Services"
+  ],
+  "SelectedNode": "\\SeriesApp\\obj\\SeriesApp.csproj.nuget.g.props",
+  "PreviewInSolutionExplorer": false
+}
